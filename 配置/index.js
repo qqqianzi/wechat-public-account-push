@@ -36,9 +36,9 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
-      useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
+      name: "小乖", 
+      id: "ojtp-6YwpMk3lwF-jK006W0Knz2I",
+      useTemplateId: "bEA0f2OT13wyXlfqWfSUMiaS9cc9EjnnKX80gqN4HXE",
       openUrl: "https://baidu.com"
     }, 
     {
